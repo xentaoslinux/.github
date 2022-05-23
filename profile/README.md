@@ -14,6 +14,10 @@
 
 ## Xenta OS Project Management  (XOPM)
 Kerangka Kerja Menggunakan Aplikasi Clouding Management  
+ Keunggulan Management Cloud 
+ * Project Bergerak Mobile Bisa di kelola di SmartPhone dan Komputer 
+ * Arsip Selalu Tersimpan menghindari resiko kerusakan data lokal error human 
+
 Aplikasi Cloud Yang Digunakan
 * Github          ---> Arsip Source dan Repository  
 * Google Drive    ---> Arsip Asset Digital Project  
@@ -21,9 +25,15 @@ Aplikasi Cloud Yang Digunakan
 * Blogger         ---> Kerangka Informasi  
 * Sourceforge      ---> Arsip ISO / Image Disk  
 
- Keunggulan Management Cloud 
- * Project Bergerak Mobile Bisa di kelola di SmartPhone
- * Arsip Selalu Tersipan menghindari resiko kerusakan data lokal error human 
+Aplikasi Computer Yang Digunakan dalam mengelola XOPM  
+* Firefox
+* Geany
+* Libreoffice
+* GIMP
+* Inkscape
+* Terminal
+* Virtual Box
+
 <!--
 
 **Here are some ideas to get you started:**
