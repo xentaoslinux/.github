@@ -26,13 +26,16 @@ Aplikasi Cloud Yang Digunakan
 * Sourceforge      ---> Arsip ISO / Image Disk  
 
 Aplikasi Computer Yang Digunakan dalam mengelola XOPM  
-* Firefox
-* Geany
-* Libreoffice
-* GIMP
-* Inkscape
-* Terminal
-* Virtual Box
+* Firefox -> Browsing & Editing Programs
+* Geany -> Teks Editor
+* Libreoffice -> Pembutan E-Book
+* GIMP  -> Backgrounds dan Manipulasi Gambar
+* Inkscape -> SVG For Creation Icons atau Themes
+* Terminal -> Building Sitem Operasi Engine [https://github.com/xentaoslinux/pengembangan]
+* Virtual Box -> Test Drive ISO
+* FileZilla -> SFTP
+* XED -> PDF Viewer
+* Nemo -> File Explorer
 
 <!--
 
