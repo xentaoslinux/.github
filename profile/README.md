@@ -1,5 +1,16 @@
 ## Hi there 👋
- Now ? Project Brawijaya
+ Now ? Project Brawijaya Ver : 3
+ 
+Agenda Xenta OS Linux 3 Brawijaya   
+1. Pembuatan Core System. [Now]  
+2. Pembuatan Artwork, Theme, Icons, Wallpaper. [Next]  
+3. Pembuatan Repository Core. [Next]  
+4. Pendataan dan Update Aplikasi. [Next]  
+5. Pembuatan Repository Aplikasi. [Next]  
+6. Pemasangan & Pengetesan Aplikasi. [Next]  
+7. Publikasi dan Release [Next]  
+
+
 <!--
 
 **Here are some ideas to get you started:**
