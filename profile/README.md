@@ -19,7 +19,7 @@ Aplikasi Cloud Yang Digunakan
 * Google Drive    ---> Arsip Asset Digital Project  
 * Yahoo Mail      ---> Communication  
 * Blogger         ---> Kerangka Informasi  
-* Sorceforge      ---> Arsip ISO / Image Disk  
+* Sourceforge      ---> Arsip ISO / Image Disk  
 
  Keunggulan Management Cloud 
  * Project Bergerak Mobile Bisa di kelola di SmartPhone
