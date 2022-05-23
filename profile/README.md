@@ -1,7 +1,7 @@
 ## Hi there 👋
  Now ? Project Brawijaya Ver : 3
  
-Agenda Xenta OS Linux 3 Brawijaya   
+## Agenda Xenta OS Linux 3 Brawijaya   
 1. Pembuatan Core System. [Now]  
    Building https://github.com/xentaoslinux/pengembangan/tree/master/amd64/brawijaya  
 2. Pembuatan Website, Artwork, Theme, Icons, Wallpaper. [Now]  
@@ -12,7 +12,18 @@ Agenda Xenta OS Linux 3 Brawijaya
 6. Pemasangan & Pengetesan Aplikasi. [Next]  
 7. Publikasi dan Release [Next]  
 
+## Xenta OS Project Management  (XOPM)
+Kerangka Kerja Menggunakan Aplikasi Clouding Management  
+Aplikasi Cloud Yang Digunakan
+* Github          ---> Arsip Source dan Repository  
+* Google Drive    ---> Arsip Asset Digital Project  
+* Yahoo Mail      ---> Communication  
+* Blogger         ---> Kerangka Informasi  
+* Sorceforge      ---> Arsip ISO / Image Disk  
 
+ Keunggulan Management Cloud 
+ * Project Bergerak Mobile Bisa di kelola di SmartPhone
+ * Arsip Selalu Tersipan menghindari resiko kerusakan data lokal error human 
 <!--
 
 **Here are some ideas to get you started:**
