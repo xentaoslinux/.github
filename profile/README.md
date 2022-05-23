@@ -4,7 +4,7 @@
 Agenda Xenta OS Linux 3 Brawijaya   
 1. Pembuatan Core System. [Now]  
    Building https://github.com/xentaoslinux/pengembangan/tree/master/amd64/brawijaya  
-2. Pembuatan Artwork, Theme, Icons, Wallpaper. [Now]
+2. Pembuatan Website, Artwork, Theme, Icons, Wallpaper. [Now]  
    Building New Webiste http://www.xentaos.com/  
 3. Pembuatan Repository Core. [Next]  
 4. Pendataan dan Update Aplikasi. [Next]  
