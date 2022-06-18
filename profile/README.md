@@ -5,8 +5,8 @@
 1. Pembuatan Core System. [Now]  
    Building https://github.com/xentaoslinux/pengembangan/tree/master/amd64/brawijaya  
 2. Pembuatan Website, Artwork, Theme, Icons, Wallpaper. [Now]  
-   Building New Webiste http://www.xentaos.com/  
-   Building New Developer Webiste https://xentaoslinux.github.io/   
+   Building New Website http://www.xentaos.com/  
+   Building New Developer Website https://xentaoslinux.github.io/   
 3. Pembuatan Repository Core. [Next]  
 4. Pendataan dan Update Aplikasi. [Next]  
 5. Pembuatan Repository Aplikasi. [Next]  
