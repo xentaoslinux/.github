@@ -35,8 +35,8 @@ Aplikasi Computer Yang Digunakan dalam mengelola XOPM
 * Terminal -> Building Sitem Operasi Engine [https://github.com/xentaoslinux/pengembangan]
 * Virtual Box -> Test Drive ISO
 * FileZilla -> SFTP
-* XED -> PDF Viewer
-* Nemo -> File Explorer
+* Xed/Atril -> PDF Viewer
+* Nemo/Caja/Nautilus/Thunar -> File Explorer
 
 <!--
 
