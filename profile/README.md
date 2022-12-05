@@ -1,17 +1,21 @@
-## Hi there 👋
+## Hi, Develeloper Xenta OS Linux 👋
  Now ? Project Brawijaya Ver : 3
- 
+## Agenda Staff  
+1. Pengarsipan Situs Website                                                             [On Prosces] 
+2. Pembuatan Administrasi Arsip                                                          [Now]  
+   https://github.com/xentaoslinux/administration
+
 ## Agenda Xenta OS Linux 3 Brawijaya   
-1. Pembuatan Core System. [Now]  
+1. Pembuatan Core System.                                                                [On Prosces]  
    Building https://github.com/xentaoslinux/pengembangan/tree/master/amd64/brawijaya  
-2. Pembuatan Website, Artwork, Theme, Icons, Wallpaper. [Now]  
+2. Pembuatan Website, Artwork, Theme, Icons, Wallpaper.                                  [Now]  
    Building New Website http://www.xentaos.com/  
    Building New Developer Website https://xentaoslinux.github.io/   
-3. Pembuatan Repository Core. [Next]  
-4. Pendataan dan Update Aplikasi. [Next]  
-5. Pembuatan Repository Aplikasi. [Next]  
-6. Pemasangan & Pengetesan Aplikasi. [Next]  
-7. Publikasi dan Release [Next]  
+3. Pembuatan Repository Core.                                                            [Next]  
+4. Pendataan dan Update Aplikasi.                                                        [Next]  
+5. Pembuatan Repository Aplikasi.                                                        [Next]  
+6. Pemasangan & Pengetesan Aplikasi.                                                     [Next]  
+7. Publikasi dan Release                                                                 [Next]  
 
 ## Xenta OS Project Management  (XOPM)
 Kerangka Kerja Menggunakan Aplikasi Clouding Management  
@@ -27,15 +31,15 @@ Aplikasi Cloud Yang Digunakan
 * Sourceforge     ---> Arsip ISO / Image Disk  
 
 Aplikasi Computer Yang Digunakan dalam mengelola XOPM  
-* Firefox -> Browsing & Editing Programs
-* Geany -> Teks Editor
-* Libreoffice -> Pembutan E-Book
-* GIMP  -> Backgrounds dan Manipulasi Gambar
-* Inkscape -> SVG For Creation Icons atau Themes
-* Terminal -> Building Sitem Operasi Engine [https://github.com/xentaoslinux/pengembangan]
-* Virtual Box -> Test Drive ISO
-* FileZilla -> SFTP
-* Xed/Atril -> PDF Viewer
+* Firefox                   -> Browsing & Editing Programs
+* Geany                     -> Teks Editor
+* Libreoffice               -> Pembutan E-Book
+* GIMP                      -> Backgrounds dan Manipulasi Gambar
+* Inkscape                  -> SVG For Creation Icons atau Themes
+* Terminal                  -> Building Sitem Operasi Engine [https://github.com/xentaoslinux/pengembangan]
+* Virtual Box               -> Test Drive ISO
+* FileZilla                 -> File Transfer ISO to Server
+* Xed/Atril                 -> PDF Viewer
 * Nemo/Caja/Nautilus/Thunar -> File Explorer
 
 <!--
