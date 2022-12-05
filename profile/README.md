@@ -1,7 +1,7 @@
 ## Hi, Develeloper Xenta OS Linux 👋
  Now ? Project Brawijaya Ver : 3
 ## Agenda Staff  
-1. Pengarsipan Situs Website                                                             [On Prosces]  
+1. Pengarsipan Situs Website                                                             [On Process]  
    https://github.com/xentaoslinux/dokumentasi/tree/master/www/xentaos.com   
    Tugasnya :  
    Mengkopi Kode HTML dan mengarsipkannya  
@@ -12,7 +12,7 @@
    
 ## Agenda Develeloper
 ### Xenta OS Linux 3 Brawijaya Project
-1. Pembuatan Core System.                                                                [On Prosces]  
+1. Pembuatan Core System.                                                                [On Process]  
    Building https://github.com/xentaoslinux/pengembangan/tree/master/amd64/brawijaya  
 2. Pembuatan Website, Artwork, Theme, Icons, Wallpaper.                                  [Now]  
    Building New Website http://www.xentaos.com/  
