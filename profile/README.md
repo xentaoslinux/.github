@@ -10,7 +10,8 @@
    Tugasnya :  
    Mendata segala bentuk informasi domain dan tagihannya  
    
-## Agenda Xenta OS Linux 3 Brawijaya   
+## Agenda Develeloper
+### Xenta OS Linux 3 Brawijaya Project
 1. Pembuatan Core System.                                                                [On Prosces]  
    Building https://github.com/xentaoslinux/pengembangan/tree/master/amd64/brawijaya  
 2. Pembuatan Website, Artwork, Theme, Icons, Wallpaper.                                  [Now]  
