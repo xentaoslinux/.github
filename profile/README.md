@@ -15,7 +15,7 @@
 1. Pembuatan Core System.                                                                [On Process]  
    Building https://github.com/xentaoslinux/pengembangan/tree/master/amd64/brawijaya  
 2. Pembuatan Website, Artwork, Theme, Icons, Wallpaper.                                  [Now]  
-   Building New Website http://www.xentaos.com/   Developer ; https://github.com/Fadhila36  
+   Building New Website http://www.xentaos.com/   Developer :  https://github.com/Fadhila36  
    Building New Developer Website https://xentaoslinux.github.io/   
 3. Pembuatan Repository Core.                                                            [Next]  
 4. Pendataan dan Update Aplikasi.                                                        [Next]  
@@ -36,7 +36,7 @@ Aplikasi Cloud Yang Digunakan
 * Blogger         ---> Kerangka Informasi  
 * Sourceforge     ---> Arsip ISO / Image Disk  
 
-Aplikasi Computer Yang Digunakan dalam mengelola XOPM  
+Recommend Software Yang Digunakan dalam mengelola XOPM  
 * Firefox                   -> Browsing & Editing Programs
 * Geany                     -> Teks Editor
 * Libreoffice               -> Pembutan E-Book
